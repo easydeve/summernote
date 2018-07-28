@@ -22,10 +22,10 @@
         floatLeft: 'ชิดซ้าย',
         floatRight: 'ชิดขวา',
         floatNone: 'ไม่จัดตำแหน่ง',
-        shapeRounded: 'Shape: Rounded',
-        shapeCircle: 'Shape: Circle',
-        shapeThumbnail: 'Shape: Thumbnail',
-        shapeNone: 'Shape: None',
+        shapeRounded: 'รูปร่าง: โค้งมน',
+        shapeCircle: 'รูปร่าง: วงกลม',
+        shapeThumbnail: 'รูปร่าง: ภาพตัวอย่าง',
+        shapeNone: 'รูปร่าง: ไม่มี',
         dragImageHere: 'ลากรูปภาพที่ต้องการไว้ที่นี่',
         dropImage: 'Drop image or Text',
         selectFromFiles: 'เลือกไฟล์รูปภาพ',
@@ -33,7 +33,7 @@
         maximumFileSizeError: 'Maximum file size exceeded.',
         url: 'ที่อยู่ URL ของรูปภาพ',
         remove: 'ลบรูปภาพ',
-        original: 'Original'
+        original: 'ต้นฉบับ'
       },
       video: {
         video: 'วีดีโอ',
@@ -53,13 +53,13 @@
       },
       table: {
         table: 'ตาราง',
-        addRowAbove: 'Add row above',
-        addRowBelow: 'Add row below',
-        addColLeft: 'Add column left',
-        addColRight: 'Add column right',
-        delRow: 'Delete row',
-        delCol: 'Delete column',
-        delTable: 'Delete table'
+        addRowAbove: 'เพิ่มแถวด้านบน',
+        addRowBelow: 'เพิ่มแถวด้านล่าง',
+        addColLeft: 'เพิ่มคอลัมน์ด้านซ้าย',
+        addColRight: 'เพิ่มคอลัมน์ด้านขวา',
+        delRow: 'ลบแถว',
+        delCol: 'ลบคอลัมน์',
+        delTable: 'ลบตาราง'
       },
       hr: {
         insert: 'แทรกเส้นคั่น'
@@ -114,41 +114,41 @@
         extraKeys: 'Extra keys'
       },
       help: {
-        'insertParagraph': 'Insert Paragraph',
-        'undo': 'Undoes the last command',
-        'redo': 'Redoes the last command',
-        'tab': 'Tab',
-        'untab': 'Untab',
-        'bold': 'Set a bold style',
-        'italic': 'Set a italic style',
-        'underline': 'Set a underline style',
-        'strikethrough': 'Set a strikethrough style',
-        'removeFormat': 'Clean a style',
-        'justifyLeft': 'Set left align',
-        'justifyCenter': 'Set center align',
-        'justifyRight': 'Set right align',
-        'justifyFull': 'Set full align',
-        'insertUnorderedList': 'Toggle unordered list',
-        'insertOrderedList': 'Toggle ordered list',
-        'outdent': 'Outdent on current paragraph',
-        'indent': 'Indent on current paragraph',
-        'formatPara': 'Change current block\'s format as a paragraph(P tag)',
-        'formatH1': 'Change current block\'s format as H1',
-        'formatH2': 'Change current block\'s format as H2',
-        'formatH3': 'Change current block\'s format as H3',
-        'formatH4': 'Change current block\'s format as H4',
-        'formatH5': 'Change current block\'s format as H5',
-        'formatH6': 'Change current block\'s format as H6',
-        'insertHorizontalRule': 'Insert horizontal rule',
-        'linkDialog.show': 'Show Link Dialog'
+        'insertParagraph': 'แทรกย่อหน้า',
+        'undo': 'ยกเลิกคำสั่งล่าสุด',
+        'redo': 'ทำซ้ำคำสั่งล่าสุด',
+        'tab': 'แท็บ',
+        'untab': 'ยกเลิกแท็บ',
+        'bold': 'กำหนดรูปแบบตัวหนา',
+        'italic': 'กำหนดรูปแบบตัวเอียง',
+        'underline': 'กำหนดรูปแบบขีดเส้นใต้',
+        'strikethrough': 'กำหนดรูปแบบขีดทับ',
+        'removeFormat': 'ล้างการกำหนดรูปแบบ',
+        'justifyLeft': 'ตั้งค่าจัดชิดซ้าย',
+        'justifyCenter': 'ตั้งค่าจัดกึ่งกลาง',
+        'justifyRight': 'ตั้งค่าจัดชิดขวา',
+        'justifyFull': 'ตั้งค่าจัดเต็มแนว',
+        'insertUnorderedList': 'แทรกหรือลบรายการแบบไม่มีลำดับ',
+        'insertOrderedList': 'แทรกหรือลบรายการแบบมีลำดับ',
+        'outdent': 'เยื้องซ้ายย่อหน้า',
+        'indent': 'เยื้องขวาย่อหน้า',
+        'formatPara': 'เปลี่ยนรูปแบบบล็อกปัจจุบันเป็นย่อหน้า (แท็ก P)',
+        'formatH1': 'เปลี่ยนรูปแบบบล็อกปัจจุบันเป็น H1',
+        'formatH2': 'เปลี่ยนรูปแบบบล็อกปัจจุบันเป็น H2',
+        'formatH3': 'เปลี่ยนรูปแบบบล็อกปัจจุบันเป็น H3',
+        'formatH4': 'เปลี่ยนรูปแบบบล็อกปัจจุบันเป็น H4',
+        'formatH5': 'เปลี่ยนรูปแบบบล็อกปัจจุบันเป็น H5',
+        'formatH6': 'เปลี่ยนรูปแบบบล็อกปัจจุบันเป็น H6',
+        'insertHorizontalRule': 'แทรกเส้นแนวนอน',
+        'linkDialog.show': 'แสดงกล่องข้อความตัวเชื่อมโยง'
       },
       history: {
         undo: 'ยกเลิกการกระทำ',
         redo: 'ทำซ้ำการกระทำ'
       },
       specialChar: {
-        specialChar: 'SPECIAL CHARACTERS',
-        select: 'Select Special characters'
+        specialChar: 'อักขระพิเศษ',
+        select: 'เลือกอักขระพิเศษ'
       }
     }
   });
