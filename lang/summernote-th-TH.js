@@ -27,10 +27,10 @@
         shapeThumbnail: 'รูปร่าง: ภาพตัวอย่าง',
         shapeNone: 'รูปร่าง: ไม่มี',
         dragImageHere: 'ลากรูปภาพที่ต้องการไว้ที่นี่',
-        dropImage: 'Drop image or Text',
+        dropImage: 'วางรูปภาพหรือข้อความ',
         selectFromFiles: 'เลือกไฟล์รูปภาพ',
-        maximumFileSize: 'Maximum file size',
-        maximumFileSizeError: 'Maximum file size exceeded.',
+        maximumFileSize: 'ขนาดไฟล์สูงสุด',
+        maximumFileSizeError: 'เกินขนาดไฟล์สูงสุด',
         url: 'ที่อยู่ URL ของรูปภาพ',
         remove: 'ลบรูปภาพ',
         original: 'ต้นฉบับ'
@@ -39,7 +39,7 @@
         video: 'วีดีโอ',
         videoLink: 'ลิงก์ของวีดีโอ',
         insert: 'แทรกวีดีโอ',
-        url: 'ที่อยู่ URL ของวีดีโอ?',
+        url: 'ที่อยู่ URL ของวีดีโอ',
         providers: '(YouTube, Vimeo, Vine, Instagram, DailyMotion หรือ Youku)'
       },
       link: {
@@ -111,7 +111,7 @@
         action: 'การกระทำ',
         paragraphFormatting: 'การจัดรูปแบบย่อหน้า',
         documentStyle: 'รูปแบบของเอกสาร',
-        extraKeys: 'Extra keys'
+        extraKeys: 'ปุ่มเสริม'
       },
       help: {
         'insertParagraph': 'แทรกย่อหน้า',
